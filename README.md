@@ -9,7 +9,7 @@ A modern full-stack expense tracker web application built with **React**, **Next
 > Use the following to log in instantly (no registration required):
 
 Email: demo@example.com
-Password: demo123
+Password: demo@123
 ## ✨ Features
 
 - ✅ Secure User Authentication (Login/Register)
