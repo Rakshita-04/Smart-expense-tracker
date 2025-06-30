@@ -10,6 +10,10 @@ A modern full-stack expense tracker web application built with **React**, **Next
 
 Email: demo@example.com
 Password: demo@123
+
+🚀 Live Demo: [smart-expense-tracker.vercel.app] https://smart-expense-tracker-smoky.vercel.app/
+
+
 ## ✨ Features
 
 - ✅ Secure User Authentication (Login/Register)
